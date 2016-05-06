@@ -1,4 +1,4 @@
-# responsive_email
+# Grubhub-Seamless_responsive_development
 Email for Grubhub/Seamless
 
 Full portfolio: http://www.donyalenao.com/
